@@ -1,0 +1,12 @@
+C:\Users\alexa\Source\Repos\School\SchoolZone\bin\Debug\SchoolZone.exe.config
+C:\Users\alexa\Source\Repos\School\SchoolZone\bin\Debug\SchoolDB.accdb
+C:\Users\alexa\Source\Repos\School\SchoolZone\bin\Debug\SchoolZone.exe
+C:\Users\alexa\Source\Repos\School\SchoolZone\bin\Debug\SchoolZone.pdb
+C:\Users\alexa\Source\Repos\School\SchoolZone\obj\Debug\SchoolZone.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Source\Repos\School\SchoolZone\obj\Debug\SchoolZone.Forms.frmGridList.resources
+C:\Users\alexa\Source\Repos\School\SchoolZone\obj\Debug\SchoolZone.frmMain.resources
+C:\Users\alexa\Source\Repos\School\SchoolZone\obj\Debug\SchoolZone.Properties.Resources.resources
+C:\Users\alexa\Source\Repos\School\SchoolZone\obj\Debug\SchoolZone.csproj.GenerateResource.Cache
+C:\Users\alexa\Source\Repos\School\SchoolZone\obj\Debug\SchoolZone.exe
+C:\Users\alexa\Source\Repos\School\SchoolZone\obj\Debug\SchoolZone.pdb
+C:\Users\alexa\Source\Repos\School\SchoolZone\obj\Debug\SchoolZone.Forms.frmSearch.resources
